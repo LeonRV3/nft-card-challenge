@@ -33,7 +33,7 @@ Mobile Version:
 
 ### Links
 
-- Solution URL: [Solucion](https://)
+- Solution URL: [Solucion](https://nft-card-lrv3.netlify.app/)
 
 ## My process
 
@@ -43,6 +43,7 @@ Mobile Version:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- CSS Animation
 
 
 ## Author
